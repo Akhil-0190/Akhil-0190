@@ -1,43 +1,79 @@
 # Hi, I'm Akhil 👋
 
-I'm a software engineer interested in backend development, AI-powered applications, and software architecture. I enjoy designing systems that combine APIs, data pipelines, and intelligent workflows to solve real-world problems.
+Software engineer interested in backend development, AI-powered applications, and software architecture. I enjoy designing systems that combine APIs, data pipelines, and intelligent workflows to solve real-world problems.
 
 ---
 
 ## Featured Projects
 
-### AI Log Monitoring System
-An intelligent log analysis platform combining anomaly detection, incident correlation, and local LLM inference for operational insights.
+### 📝 [AI Log Monitoring System](https://github.com/Akhil-0190/AI-Log-Monitoring-System)
+
+An intelligent log analysis platform combining anomaly detection, incident correlation, and local LLM inference to assist operational monitoring and incident investigation.
 
 **Tech:** Python • Ollama • Llama • Isolation Forest
 
 ---
 
-### ResearchAgent
-An autonomous AI research assistant that searches, summarizes, cites, and refines academic research using IBM Granite foundation models.
+### 🔬 [ResearchAgent](https://github.com/Akhil-0190/research-agent)
+
+An autonomous AI research assistant that searches, summarizes, cites, generates hypotheses, and produces structured research reports using IBM Granite foundation models.
 
 **Tech:** Python • FastAPI • React • IBM Granite • Watsonx
 
 ---
 
-### Critical Resource Management System
-Enterprise resource management prototype integrating Informatica IICS, Python analytics, Snowflake, LLM-powered insights, and Power BI dashboards.
+### 🏢 [Critical Resource Management System](https://github.com/Akhil-0190/critical-resource-management)
+
+An enterprise resource management prototype integrating Informatica Intelligent Cloud Services (IICS), Python analytics, Snowflake, LLM-powered insights, and Power BI dashboards.
 
 **Tech:** Python • Informatica IICS • Snowflake • Power BI
 
 ---
 
-## Interests
+## Additional Projects
+
+- 📊 [Review Analyzer](https://github.com/Akhil-0190/review-analyzer) — Review classification and visualization for e-commerce platforms.
+- 👁️ [Smart Sight](https://github.com/Akhil-0190/Smart-Sight-YOLOv7-GUI) — Desktop GUI for YOLOv7 object detection.
+- ♻️ [Textile Waste Valorization System](https://github.com/Akhil-0190/Textile-Ledger-textile-waste-valorization-system) — Sustainability-focused web application demonstrating digital incentive calculations.
+
+---
+
+## Areas of Interest
 
 - Backend Engineering
 - Software Architecture
 - AI Applications
 - Intelligent Automation
+- Enterprise Software
 - Data Pipelines
+
+---
+
+## Technologies
+
+**Programming Languages**
+
+- Python
+- SQL
+- JavaScript
+
+**Frameworks & Tools**
+
+- FastAPI
+- Flask
+- Node.js
+- Express.js
+- React
+- MongoDB
+- Snowflake
+- Informatica IICS
+- Ollama
+- IBM Granite
+- Power BI
 
 ---
 
 ## Connect
 
-- LinkedIn: linkedin.com/in/akhil-tv019
-- Email: akhil0official@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/akhil-tv019
+- 📧 Email: akhil00official@gmail.com
