@@ -40,4 +40,4 @@ Enterprise resource management prototype integrating Informatica IICS, Python an
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/akhil-tv019
-- Email: <YOUR_EMAIL>
+- Email: akhil0official@gmail.com
