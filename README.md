@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Akhil 👋
 
-<!--
-**Akhil-0190/Akhil-0190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer interested in backend development, AI-powered applications, and software architecture. I enjoy designing systems that combine APIs, data pipelines, and intelligent workflows to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### AI Log Monitoring System
+An intelligent log analysis platform combining anomaly detection, incident correlation, and local LLM inference for operational insights.
+
+**Tech:** Python • Ollama • Llama • Isolation Forest
+
+---
+
+### ResearchAgent
+An autonomous AI research assistant that searches, summarizes, cites, and refines academic research using IBM Granite foundation models.
+
+**Tech:** Python • FastAPI • React • IBM Granite • Watsonx
+
+---
+
+### Critical Resource Management System
+Enterprise resource management prototype integrating Informatica IICS, Python analytics, Snowflake, LLM-powered insights, and Power BI dashboards.
+
+**Tech:** Python • Informatica IICS • Snowflake • Power BI
+
+---
+
+## Interests
+
+- Backend Engineering
+- Software Architecture
+- AI Applications
+- Intelligent Automation
+- Data Pipelines
+
+---
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/akhil-tv019
+- Email: <YOUR_EMAIL>
