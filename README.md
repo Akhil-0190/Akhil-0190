@@ -10,7 +10,7 @@ Software engineer interested in backend development, AI-powered applications, an
 
 An intelligent log analysis platform combining anomaly detection, incident correlation, and local LLM inference to assist operational monitoring and incident investigation.
 
-**Tech:** Python • Ollama • Llama • Isolation Forest
+**Tech:** Python • Streamlit • Llama • Isolation Forest
 
 ---
 
