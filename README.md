@@ -49,30 +49,6 @@ An enterprise resource management prototype integrating Informatica Intelligent 
 
 ---
 
-## Technologies
-
-**Programming Languages**
-
-- Python
-- SQL
-- JavaScript
-
-**Frameworks & Tools**
-
-- FastAPI
-- Flask
-- Node.js
-- Express.js
-- React
-- MongoDB
-- Snowflake
-- Informatica IICS
-- Ollama
-- IBM Granite
-- Power BI
-
----
-
 ## Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/akhil-tv019
