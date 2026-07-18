@@ -51,5 +51,5 @@ An enterprise resource management prototype integrating Informatica Intelligent 
 
 ## Connect
 
-- 💼 LinkedIn: linkedin.com/in/akhil-tv019
+- 💼 LinkedIn: [linkedin.com/in/akhil-tv019](https://www.linkedin.com/in/akhil-tv019/)
 - 📧 Email: akhil0official@gmail.com
